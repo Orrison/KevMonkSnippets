@@ -12,4 +12,6 @@ The description of the section must have the string "on" in order to display
 
 3. CSS styling will most likely need to happen to make the embeded section look good. All the sections content is surrounded by a #popupModal ID that can be used in styling
 
+Created by Chris Ullyott, modified to work in standard Ekk360 structure by Kevin Ullyott
+
 Enjoy!
